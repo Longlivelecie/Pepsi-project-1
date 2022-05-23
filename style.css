@@ -11,7 +11,7 @@
     width: 100%;
     background-image: url("bg.jpg");
     background-repeat:no-repeat;
-    background-size: contain;
+    background-size: cover;
     padding-right: 3%;
     padding-left: 5%;
     box-sizing: border-box;
